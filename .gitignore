@@ -1,0 +1,29 @@
+# Build artifacts
+.build/
+compiled-resource/
+backups/
+
+# Generated Coromon archives
+*.car
+*.patched.*
+*.backup.*
+
+# Lua build outputs
+lua-5.1.5.tar.gz
+lua-5.1.5/src/lua
+lua-5.1.5/src/luac
+lua-5.1.5/src/*.o
+lua-5.1.5/src/*.a
+lua-5.1.5/src/*.so
+
+# Lua temporary/generated files
+*.lu
+*.luac
+
+# Do not ignore modified Lua source files
+!files-to-compile/*.lua
+
+# Python cache, for corona-archiver or local scripts
+__pycache__/
+*.py[cod]
+*$py.class

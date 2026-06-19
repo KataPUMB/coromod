@@ -1,0 +1,2 @@
+*.car filter=lfs diff=lfs merge=lfs -text
+compiled-resource/*.car filter=lfs diff=lfs merge=lfs -text

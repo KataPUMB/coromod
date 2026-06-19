@@ -1,8 +1,6 @@
-# Coromon Potentiflator QoL Patch
+# Coromod
 
-A small Linux-focused Coromon mod that makes several late-game Coromon improvement mechanics much faster and less grindy.
-
-This project does **not** distribute Coromon's original `resource.car`. Instead, it provides modified Lua source files and a build script that lets you rebuild your own patched `resource.car` locally from your legally installed copy of the game.
+A small Linux-focused Coromon mod that makes several QOL Coromon mechanics much faster and less grindy.
 
 ## Features
 

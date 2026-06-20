@@ -21,7 +21,7 @@ In practice, this means the NPC/service events where you leave your Coromon for 
 
 ## Supported Version
 
-This patch is intended for the **Linux version of Coromon**.
+This patch is intended for the **Linux version of Coromon and SteamDeck version**.
 
 The default script path targets the Snap Steam installation:
 
